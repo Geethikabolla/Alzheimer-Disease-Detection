@@ -1,0 +1,6 @@
+,Classifier,Train_Acc,Test_Acc,Test_Precision,Test_Recall,Test_F1-Score,Model_Overfit
+1,Decision Tree,100.0,94.41,95.0,94.0,94.0,5.59
+3,K-Neighbors,91.33,82.52,84.0,83.0,83.0,8.81
+2,SVC,86.42,80.42,80.0,80.0,80.0,6.0
+4,Logistic,80.33,76.22,76.0,76.0,76.0,4.11
+0,Naive Bayes,72.37,73.43,72.0,73.0,71.0,1.06
